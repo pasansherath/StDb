@@ -33,7 +33,7 @@ setup(
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9'
     ],
-    install_requires=['obspy', 'PyQt5'],
+    install_requires=['obspy'],
     python_requires='>=3.6',
     packages=setuptools.find_packages(),
     include_package_data=True,
