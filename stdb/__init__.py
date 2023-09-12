@@ -114,4 +114,4 @@ __version__ = '0.2.3'
 from . import kml
 from .classes import StDbElement
 from .io import write_db, load_db, tocsv, fromcsv
-from .gui import EditMsgBox
+# from .gui import EditMsgBox
